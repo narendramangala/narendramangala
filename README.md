@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm **Narendra Mangala** — a Cloud Data Engineering & Analytics leader with **15 years of experience** building enterprise-scale data platforms on Microsoft Azure. Currently serving as **Data Engineer Manager at Sogeti USA**, I work with **Kenvue** driving end-to-end data solutions across ingestion, transformation, governance, and BI.
+I'm **Narendra Mangala** — a Cloud Data Engineering & Analytics leader with **15 years of experience** building enterprise-scale data platforms on Microsoft Azure. Currently serving as **Data Engineer Manager **, I work with **Kenvue** driving end-to-end data solutions across ingestion, transformation, governance, and BI.
 
 My work spans the full modern data stack — **Azure Databricks, Microsoft Fabric, Delta Lake, PySpark, and Power BI** — with deep specialization in **Medallion Architecture**, **MLOps-ready pipelines**, and **AI-augmented data frameworks**. Over the past five years, I've been at the forefront of integrating generative AI into data engineering workflows, from LLM-assisted ELT generation to agentic pipeline orchestration.
 
